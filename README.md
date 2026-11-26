@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de Informática para Internet no IFRN 🎓<br>
-  [uma frase sua]
+  <i>Nordestino, apaixonado por código. Programar é o que acalma a minha mente.</i>
 </p>
 
 ## 🌱 Aprendendo
@@ -19,5 +19,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlodev&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=luizcarlodev&theme=tokyonight&no-frame=true&row=1&column=3" />
+  <img src="https://streak-stats.demolab.com?user=luizcarlodev&theme=tokyonight&hide_border=true" />
 </p>
